@@ -6,7 +6,7 @@ export const NormalUserDetails = () => {
     // const[userAge,setUserAge] = useState(22);
 
     //using Object
-    const [user , setUser] = useState({name: "Ram", age:23})
+    const [user , setUser] = useState({name: "Ram", age:23});
 
     const handleName = ()=>{
         // setUserName("PRADEEP");
