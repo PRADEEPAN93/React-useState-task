@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    border:1px solid #ccc;
+    border-collapse: collapse; 
+}
+
+table td{
+    border:1px solid #ccc;
+    padding: 5px 10px;
+}
+
+table td:first-child{
+font-weight: 500;
+}
+
+form{
+    width:250px;
+    margin-top:10px;
+    display:flex;
+    flex-direction: column ;
+    gap: 10px;
+}
+
+
