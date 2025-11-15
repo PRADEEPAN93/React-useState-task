@@ -6,7 +6,7 @@ export const Counter= () => {
 
 
     const handleClick=()=>{
-        setCartCount(cartCount+1);
+        setCartCount(cartCount + 1);
     }
 
   return (
