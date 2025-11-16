@@ -14,10 +14,10 @@ function App() {
 
   return (
     <>
-      {/* <QrCode />
+      <QrCode />
       <Counter />
       <NormalUserDetails />
-      <RegForm /> */}
+      <RegForm />
       <AdviceApp />
     </>
   )

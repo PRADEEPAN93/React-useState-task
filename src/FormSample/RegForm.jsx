@@ -106,7 +106,6 @@ export default function RegForm() {
                         <option value="USA">USA</option>
                         <option value="UK">UK</option>
                     </select>
-
                 </div>
             </form>
         </>
