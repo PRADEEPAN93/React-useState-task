@@ -1,12 +1,12 @@
 
 // import './App.css'
 // import './Form.css'
-import './Advice.css'
-import { QrCode } from './Component/QrCode'
-import { Counter } from './FormSample/Counter'
-import { NormalUserDetails } from './FormSample/NormalUserDetails'
-import RegForm from './FormSample/RegForm'
-import { AdviceApp } from './AdviceAppApi/AdviceApp'
+import './Advice.css';
+import { QrCode } from './Component/QrCode';
+import { Counter } from './FormSample/Counter';
+import { NormalUserDetails } from './FormSample/NormalUserDetails';
+import RegForm from './FormSample/RegForm';
+import { AdviceApp } from './AdviceAppApi/AdviceApp';
 
 
 function App() {
@@ -14,10 +14,10 @@ function App() {
 
   return (
     <>
-      <QrCode />
+      {/* <QrCode />
       <Counter />
       <NormalUserDetails />
-      <RegForm />
+      <RegForm /> */}
       <AdviceApp />
     </>
   )
